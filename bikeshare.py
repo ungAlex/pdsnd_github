@@ -179,14 +179,14 @@ def user_stats(df):
     print('-'*40)
 
 def display_data(df):
-    """Displays 5 entrys from the data frame if based on the user impot "y/n" ."""
+    """Displays 10 entrys from the data frame if based on the user impot "y/n" ."""
 
-    #Displays the first 5 rows and on depending on user input
+    #Displays the first 10 rows and on depending on user input
     view_data = input('\nWould you like to view 5 rows of individual trip data? Enter Y = yes or N = no: \n')
-    start_loc = 5    
+    start_loc = 10    
     while view_data != 'n':        
         print(df.iloc[:start_loc])
-        start_loc = start_loc + 5 
+        start_loc = start_loc + 10 
         view_data = input("Would you like to view further 5 rows? Y = Yes (or something else) | N = No:  ").lower()
         
 
