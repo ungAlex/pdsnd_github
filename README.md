@@ -2,16 +2,23 @@
 
 ### Date created
 Include the date you created this project and README file.
+This are my changes to README.md
 
 ### Project Title
 Replace the Project Title
+This are my changes to README.md
 
 ### Description
 Describe what your project is about and what it does
+This are my changes to README.md
 
 ### Files used
 Include the files used
+This are my changes to README.md
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This are my changes to README.md
 
+### Changes 
+This are my changes to README.md
