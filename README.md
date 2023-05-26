@@ -26,3 +26,4 @@ This project displays computed data about a bikesharing company based in NY Chic
 ### Changes 
 -> Added the project on github
 -> Edited the readme.txt from the project documentation
+-> Add new methods to the skript 
